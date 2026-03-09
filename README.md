@@ -5,7 +5,7 @@ Simple dark theme for fcitx5.
 
 ### installation
 ```sh
-make install
+sudo make install
 ```
 
 ### usage
