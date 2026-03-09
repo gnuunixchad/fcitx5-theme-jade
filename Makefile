@@ -1,5 +1,5 @@
 SOURCE = jade
-DEST = /usr/share/fcitx5/themes
+DEST = /usr/local/share/fcitx5/themes
 
 install:
 	mkdir -p $(DEST)
