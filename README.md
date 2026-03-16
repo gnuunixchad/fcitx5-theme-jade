@@ -1,4 +1,4 @@
-# fcitx5-theme-jade
+# <img src="./misc/fcitx5-theme-jade-repo.png" width="24"/> fcitx5-theme-jade
 ![](./misc/jade.png)
 
 Simple dark theme for fcitx5.
